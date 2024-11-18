@@ -1,5 +1,6 @@
 Ingredients
 
+Let's begin! 
 ingredients
 Units: US
 6
@@ -45,3 +46,5 @@ OPTIONAL
 carrots, peeled & diced (optional)
 1
 preserved lemon, chopped into small wedges (optional)
+
+Enjoy my recipe!
